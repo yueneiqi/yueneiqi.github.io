@@ -59,6 +59,8 @@ namespace Manager
 }
 ```
 
+注意这种写法也要留心上文提到的Static initialization order fiasco问题
+
 #### 2.使用依赖注入模式
 
 使用依赖注入（dependency injection）模式来替代，更详细的介绍看Marc（2021）在书中的代码，这个例子中`ILogger`的实例通过`Foo`的构造函数被注入到类中：
