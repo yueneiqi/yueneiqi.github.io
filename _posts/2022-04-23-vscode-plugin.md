@@ -68,9 +68,7 @@ toc: true
 
     *   [通过xmake在vscode上编写c/c++项目](https://www.wolai.com/myboy/ftXPfQzG8ZXiyfqm3qs9Qd "通过xmake在vscode上编写c/c++项目")
 
-    *   编译选项
-
-        *    [C++ Diagnostic Basics: Warnings, Assertions, Testing](https://hackingcpp.com/cpp/diagnostics.html "C++ Diagnostic Basics: Warnings, Assertions, Testing | hacking C++ (hackingcpp.com)")
+    *   编译选项:[C++ Diagnostic Basics: Warnings, Assertions, Testing](https://hackingcpp.com/cpp/diagnostics.html)
 
 *   clangd
 
