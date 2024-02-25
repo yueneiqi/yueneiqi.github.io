@@ -22,8 +22,9 @@ c++的资料非常得多，经典书单不再赘述，这里补充一些自己�
 **进一步的学习资料：**
   - [候捷系列网课](https://pan.baidu.com/s/1xEgRRKaHFaVOtXx0BbmZhw?pwd=wd43)
   - [【录播】现代C++中的高性能并行编程与优化（持续更新中）](https://www.bilibili.com/video/BV1fa411r7zp?vd_source=8fbe66e7c96f76c12929e16b0eed07a6)
-  - [《C++ Core Guidelines》(2022)](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+  - [C++ Core Guidelines(2022)](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
   - [cpp-fundamentals-for-professionals](https://www.educative.io/courses/cpp-fundamentals-for-professionals) （C++17）很好的讲义，很多可以在网页上运行的代码例子和小练习
+  - [Professional C++ 5th](https://www.amazon.com/Professional-C-Marc-Gregoire-ebook/dp/B08XM881GZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), 21年出的第五版，新的总是好的，全面系统，时常检索的参考书，中译本见[《C++20高级编程(第5版)》](https://book.douban.com/subject/35863224/)。
 
 **日常学习**
 

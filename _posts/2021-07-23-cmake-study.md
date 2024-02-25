@@ -19,3 +19,4 @@ toc: true
   - [《CMake菜谱（CMake Cookbook中文版）》](https://www.bookstack.cn/read/CMake-Cookbook/README.md)
   - 项目参考：[cmu-db/bustub](https://github.com/cmu-db/bustub)，整体框架
   - 项目参考：[config-loader](https://github.com/netcan/config-loader/blob/master/third-party/ThirdParty.cmake)，第三方库的链接方式
+  - 项目参考：[ceph](https://github.com/ceph/ceph/tree/main/cmake/modules)，对于spdk和dpdk等第三方库的链接方式，`Find*.cmake`和`Build*.cmake`

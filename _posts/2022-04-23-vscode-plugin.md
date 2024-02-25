@@ -23,6 +23,8 @@ toc: true
 
 *   vim
 
+*   gitlens
+
 *   Code Runner
 
 *   bookmarks
@@ -77,6 +79,21 @@ toc: true
     *   clang-tidy
 
     *   新版编译器
+
+#### 画图
+
+*   draw.io
+
+*   PlantUML
+
+
+#### 小工具
+
+*   String Manipulation
+
+*   Diff Viewer
+
+*   Sort Lines
 
 <br>
 <br>
