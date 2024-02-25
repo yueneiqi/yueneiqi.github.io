@@ -60,7 +60,7 @@ SUID/SGID 权限主要应用在二进制可执行文件上¹²。例如，当普
 
 以下是在实际项目中封装好的`system`模板函数：
 
-```c
+```
 typedef void (*sighandler_t)(int);
 int os_system(const char *cmd)
 {
