@@ -3,7 +3,7 @@ layout: post
 title: VSCode终端字体设置：Nerd Fonts
 date: 2021-02-27
 Author: 玉树
-categories: [工具, VSCode]
+categories: [Tool, VSCode]
 tags: [Configuration, VSCode]
 comments: true
 ---

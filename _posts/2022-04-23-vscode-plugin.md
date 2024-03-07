@@ -3,7 +3,7 @@ layout: post
 title: VSCode/C++插件分享
 date: 2022-04-23
 author: 玉树
-categories: [工具, VSCode]
+categories: [Tool, VSCode]
 tags: [Configuration, VSCode, C++]
 comments: true
 toc: true
