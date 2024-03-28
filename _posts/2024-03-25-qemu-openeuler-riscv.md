@@ -15,7 +15,6 @@ toc: true
 
 ```bash
 brew install gawk gnu-sed gmp mpfr libmpc isl zlib expat
-
 ```
 
 安装qemu：
