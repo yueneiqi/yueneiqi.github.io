@@ -222,9 +222,6 @@ X& myX()
 - `X`需要被摧毁（比如它需要释放资源），并且
 - `X`的析构函数需要同步执行
 
-TODO（不理解）:
-If you, as many do, define a singleton as a class for which only one object is created, functions like `myX` are not singletons, and this useful technique is not an exception to the no-singleton rule.
-
 <br>
 
 【后注一】对于static member的初始化，C++标准保证，在同一个编译单元内的static member、global variable的静态初始化先于动态初始化。但是同为静态初始化或者同为动态初始化的时候，是按照其定义的顺序来进行的。 静态初始化是指zero initialization或者是用常量表达式初始化的情况，除此以外的都为动态初始化。  C++标准3.6.2节有相关描述。
